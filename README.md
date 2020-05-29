@@ -1,2 +1,6 @@
-# intro.md
-Why we use Github?
+# Зачем нам Github?
+
+- быстро обновлять наш сайт [finec.mgimo.ru](https://finec.mgimo.ru/)
+- поддерживать чатбота в Telegram
+- научиться работе с системой контроля версий (version control), непрерывной интеграцией (continious integration), работой с задачами (issues)
+- поддержать проекты, которые перерастают учебные и тренировочные задачи
